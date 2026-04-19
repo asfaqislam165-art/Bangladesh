@@ -1,1 +1,2 @@
-console.log("Hello World");
+console.log("James Bond");
+console.log("Bruce Wayne");
